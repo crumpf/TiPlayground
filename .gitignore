@@ -1,0 +1,28 @@
+# Remove XCode stuff
+*.model
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspective
+*.perspectivev3
+
+# Remove OSX stuff
+.DS_Store
+
+# Automatic backup files
+*~.nib
+*.swp
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
+
+# Remove TextMate stuff
+*.tm_build_errors
+
+# Remove Aptana stuff
+.project
+
+# other source control stuff
+.svn
